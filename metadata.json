@@ -1,0 +1,6 @@
+{
+  "name": "Rumah Sakit Anaverse — Hospital ERP & Clinical CMS",
+  "description": "Enterprise Hospital ERP, Outpatient/Inpatient Clinical EMR, AI ICD-10 Coding, Laboratory Information System, Google Drive Medical Vault, and Smart Booking Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
